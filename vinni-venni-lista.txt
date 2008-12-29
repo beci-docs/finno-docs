@@ -1,10 +1,18 @@
 venni/szerezni:
-	- kabat
-	- borond
-	- cipo
-xp, office, installcd-k
-ures cd-k
-laptop garancia
+	kabat
+	borond
+	cipo
+	beleses kesztyu
+	fulig ero sapka
+	skype-hoz mikrofon
+	gyogyszerek
+	terdmelegito
+	textilzsepi
+
+mar megvan, kivinni:
+	xp, office, installcd-k
+	ures cd-k
+	laptop garancia
 
 Overirregular: cipo: VI. Jokai ter, tobbi: XIII. Katona Jozsef
 Sandstone out: XIII. Tatra utca, XI. Fehervari Ut
@@ -18,4 +26,10 @@ váci úti motoros boltba. Nagyon lehangoló volt, a cucc tökéletes és olcsó
 Én is textilzsepit használok.
 Egy-egy allergiás idõszakomban napi 5-6 zsepit áztatok rongyosra. Ha ezt papírral játszanám el, akkor 2 nap alatt sebes lenne az orrom...
 
-skype-hoz mikrofon
+kiadasok
+	lakber - 54
+	kabat - 24
+	bakancs - 12-17
+	borond - 12-50
+	ajandek - 15
+	olasz - 24
